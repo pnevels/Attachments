@@ -1,1 +1,12 @@
-this is a README for the ATTachments Repository
+I originally developed this class in order to automate the job of downloading 
+multiple email attachments. 
+
+For my teaching assistant duties, when students send me source code to be tested 
+and graded, I run Attachments with a specified file ending. In the case of programing 
+assignmentent 2, the students' source code files will be called <username>p2.py, so I 
+specify that only files containing the pattern 'p2.py' should be downloaded. I realize 
+this surely isn't the most robust method for specifying which files should be downloaded, 
+but it seems to work fine. The only probems I've encountered are when students do not 
+stick to the file naming conventions. 
+
+
