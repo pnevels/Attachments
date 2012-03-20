@@ -4,7 +4,7 @@
 # created 1/17 - 1/19
 #
 # This class provides a set of methods for downloading 
-# attachments from a given Gmail account
+# email attachments from a given Gmail account
 
 
 import os, getpass, email, imaplib
